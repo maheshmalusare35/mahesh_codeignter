@@ -1,0 +1,17 @@
+<producers>
+	<producer>
+		<name>alex</name>
+		<age>20</age>
+	</producer>
+
+	<producer>
+		<name>ramesh</name>
+		<age>32</age>
+	</producer>
+
+	<producer>
+		<name>suresh</name>
+		<age>56</age>
+	</producer>
+
+</producers>
